@@ -2,7 +2,7 @@
 
 Kalyug Patrika is an autonomous AI-powered news agent that provides crisp and summarized news articles in multiple Indian languages. Users can access news simply by entering keywords or specifying a location and genre, making it a seamless and efficient way to stay updated with the latest happenings.
 
-1. Live Website:- https://stunner2201.github.io/Kalyug_Patrika/index.html
+1. Live Website:- https://stunner2201.github.io/Kalyug_Patrika/
 2. Kalyug_Patrika Agent:- https://github.com/Stunner2201/Kalyug_Patrika_Agent (Github Repository)
 3. Live Hugging Face Spaces:- https://huggingface.co/spaces/ayushraj0906/Kalyug_Patrika
 
